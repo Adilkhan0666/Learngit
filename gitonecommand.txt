@@ -12,7 +12,7 @@ git status (to check status)
 
 git commit -m'write messge here to display changes'
 
-git remote add origin repoName(link)
+git remote add origin repoName(link  to add project to github)
 
 git push origin master(to add file on github)
 
