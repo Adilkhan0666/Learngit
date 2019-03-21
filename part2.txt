@@ -1,0 +1,15 @@
+part 2------------
+////////////////
+make branches----- 
+
+*****************
+git branch  to know how many bran. avail.
+
+git branch name_of_branch to make new brnch
+
+git checkout new_branch_name to switch branch
+
+git merge branch_name to merge with original branch
+
+
+git branch -d branch_name to delete branch
