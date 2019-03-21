@@ -1,0 +1,16 @@
+git log commands
+
+****************
+git log to view log
+
+git log -3 to view 3 log
+
+git log --oneline to view msg n hash
+
+git log --grep="commit message"(view log via using commit msg)
+git log -i --grep="" to remove case sensitive
+
+git log --author='name'(search via name)
+
+git -i -p -G'search via code in the file'
+(-p for to check via code)
