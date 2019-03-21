@@ -14,3 +14,6 @@ git log --author='name'(search via name)
 
 git -i -p -G'search via code in the file'
 (-p for to check via code)
+
+
+till now we have learnt alot
