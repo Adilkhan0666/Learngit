@@ -1,0 +1,21 @@
+git config --global user.name 'Adil Khan'
+git config --global user.email 'adilkhan0666@gmail.com'
+ 
+
+learn git part 1
+-----------------------
+git init
+
+git add filename or -A(to all file)
+
+git status (to check status)
+
+git commit -m'write messge here to display changes'
+
+git remote add origin repoName(link)
+
+git push origin master(to add file on github)
+
+git clone reponame(link"to add another user")
+
+git pull origin master(to pull file to folder or project)
