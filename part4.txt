@@ -7,5 +7,5 @@ to see difference
 git reset part4.txt
 to reset
 
-git checkout part4.txt
+git checkout part4.txt  or git checkout .   to all file 
 to remove content
