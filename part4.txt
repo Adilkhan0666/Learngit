@@ -3,3 +3,9 @@ diff command
 
 git diff --staged part4.txt 
 to see difference
+
+git reset part4.txt
+to reset
+
+git checkout part4.txt
+to remove content
