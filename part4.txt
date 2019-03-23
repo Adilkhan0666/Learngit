@@ -1,2 +1,5 @@
 git diff part4.txt
 diff command
+
+git diff --staged part4.txt 
+to see difference
